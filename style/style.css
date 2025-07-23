@@ -1,0 +1,15 @@
+/* Font */
+body {
+    font-family: "Inter", sans-serif;
+}
+h1 {
+    font-family: "Noto Serif", serif;
+}
+/* Body */
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+p {
+    font-size: 22px;
+}
